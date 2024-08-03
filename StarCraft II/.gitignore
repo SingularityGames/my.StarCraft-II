@@ -1,5 +1,2 @@
-GameLogs
-ImageUploads
-Interfaces
-Screenshots
-*.txt
+GameLogs/
+ExecuteInfo.txt

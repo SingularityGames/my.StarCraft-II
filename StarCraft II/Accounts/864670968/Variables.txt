@@ -1,0 +1,11 @@
+camerasmartpan=false
+displayunitstatus=Damaged
+gluetheme=1
+LastCampaignId[1]=0
+mastervolume=1.000000
+MeleeHelpIntroCount=3
+musicvolume=1.000000
+OptionRevisionAccount=0
+soundambiencevolume=1.000000
+soundeffectsvolume=1.000000
+subtitles=true
